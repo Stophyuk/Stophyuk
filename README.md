@@ -24,7 +24,6 @@
 ## 공개한 것
 
 - **[solutionzip-skills](https://github.com/Stophyuk/solutionzip-skills)** — 실제로 쓰는 Claude Code 스킬 10개. 카드뉴스 · 숏폼 · 앱 점검 · AI 티 점검 · 카피 검사 · 서버 한 대 운영
-- [checkpoint-game](https://github.com/Stophyuk/checkpoint-game) — Flutter + Flame 타임루프 어드벤처 프로토타입
 - [likethis](https://github.com/Stophyuk/likethis) — 메모 하나를 플랫폼별 초안으로 바꾸는 1인용 글쓰기 도구(실험)
 - [seoul-mayor-debate](https://github.com/Stophyuk/seoul-mayor-debate) — AI 상대와 토론을 연습하는 시뮬레이터(프로토타입)
 - [blog-insight](https://github.com/Stophyuk/blog-insight) — Next.js 블로그 뼈대. SEO 메타데이터 · 광고 자리

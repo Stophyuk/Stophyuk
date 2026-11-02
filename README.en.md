@@ -24,7 +24,6 @@ I spent two years planning e-commerce websites and three years planning a docume
 ## Open source
 
 - **[solutionzip-skills](https://github.com/Stophyuk/solutionzip-skills)** — ten Claude Code skills from daily work: card news, short videos, an app security checkup, an AI-look check, Korean copy lint, a one-box server
-- [checkpoint-game](https://github.com/Stophyuk/checkpoint-game) — a time-loop adventure prototype in Flutter + Flame
 - [likethis](https://github.com/Stophyuk/likethis) — one note becomes a draft for each platform; a single-user writing tool (experiment)
 - [seoul-mayor-debate](https://github.com/Stophyuk/seoul-mayor-debate) — practice a debate against an AI opponent (prototype)
 - [blog-insight](https://github.com/Stophyuk/blog-insight) — a Next.js blog scaffold with SEO metadata helpers and ad slots
